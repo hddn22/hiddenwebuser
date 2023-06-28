@@ -19,11 +19,11 @@
 <img src="https://img.icons8.com/?size=15&id=S1NzlR4v3Zdw&format=png"> About me:
 
 I am Java<img src="https://img.icons8.com/?size=512&id=FRRACRKRsw2s&format=png" width="20"> back-end developer from Russia.
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently learning **Web3**.
 - 📫 How to reach me:     <a href="https://t.me/hddn22">
       <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/telegram_button_icon_151837.png" alt="Twitter Badge" width="65"/>
     </a>
-
+- ⚡ Fun fact: I'm IT enjoyer.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -36,9 +36,15 @@ I am Java<img src="https://img.icons8.com/?size=512&id=FRRACRKRsw2s&format=png" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-```java
+
+``` java
 private String mainLanguage = "Java";
 ```
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hiddenwebuser&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **hiddenwebuser/hiddenwebuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
